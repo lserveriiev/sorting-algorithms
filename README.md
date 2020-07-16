@@ -7,7 +7,7 @@
 
 ✅ Bubble Sort
 
-❌ Selection Sort
+✅ Selection Sort
 
 ❌ Insertion Sort
 
