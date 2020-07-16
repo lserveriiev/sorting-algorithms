@@ -9,7 +9,7 @@
 
 ✅ Selection Sort
 
-❌ Insertion Sort
+✅ Insertion Sort
 
 ❌ Merge Sort
 
