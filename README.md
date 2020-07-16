@@ -11,7 +11,7 @@
 
 ✅ Insertion Sort
 
-❌ Merge Sort
+✅ Merge Sort
 
 ❌ Quick Sort
 
