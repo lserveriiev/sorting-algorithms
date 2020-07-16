@@ -13,13 +13,13 @@
 
 ✅ Merge Sort
 
-❌ Quick Sort
+✅ Quick Sort
+
+❌ Counting Sort
 
 ❌ Heap Sort
 
 ❌ Radix Sort
-
-❌ Counting Sort
 
 ❌ ShellSort
 
