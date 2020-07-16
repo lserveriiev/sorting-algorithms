@@ -15,7 +15,7 @@
 
 ✅ Quick Sort
 
-❌ Counting Sort
+✅ Counting Sort
 
 ❌ Heap Sort
 
